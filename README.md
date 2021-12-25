@@ -13,8 +13,8 @@ public class aboutme
 	string whatilearn;
     whatilearn = "C# Java Node JS";
     
-    string language;
-    language = "German";
+    string location;
+    location = "German";
 	
     
     
