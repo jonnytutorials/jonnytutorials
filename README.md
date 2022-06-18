@@ -11,7 +11,7 @@ public class aboutme
 	jonnytutorials.info("Hi, I’m @jonnytutorials");
     
 	string whatilearn;
-    whatilearn = "C#, Java, Node JS";
+    whatilearn = "C#, Java, Javascript";
     
     string location;
     location = "German";
