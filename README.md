@@ -5,4 +5,6 @@
 <img src="https://img.shields.io/discord/743062575775875143" alt="Discord">
 </a>
 <h2>Programmiersprachen</h2>
+<a href="https://github.com/jonnytutorials?tab=repositories">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnytutorials&exclude_repo=jonnytutorials&show_icons=true&theme=dark" alt="GitHub Langs">
+</a>
