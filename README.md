@@ -1,7 +1,9 @@
 <div align="center">
 <h1>Hey, ich bin Jonny Tutorials</h1>
 <h4>ein leidenschaftlicher Python Developer.</h4>
-<h4>Sehe dir meine veröffentlichten Projekte hier an!</h4>
+<h4>Sehe dir meine veröffentlichten Projekte <a href="https://github.com/jonnytutorials?tab=repositories">
+hier</a>
+ an!</h4>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=jonnytutorials&show_icons=true&hide=issues,prs&theme=dark" alt="GitHub Stats">
 <a href="https://github.com/jonnytutorials?tab=repositories">
