@@ -5,9 +5,9 @@
 hier</a>
  an!</h4>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=jonnytutorials&show_icons=true&hide=issues,prs&theme=dark" alt="GitHub Stats">
+<img src="https://github-readme-stats-one-ruddy-99.vercel.app/api?username=jonnytutorials&show_icons=true&hide=issues,prs&theme=dark" alt="GitHub Stats">
 <a href="https://github.com/jonnytutorials?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnytutorials&exclude_repo=jonnytutorials&show_icons=true&theme=dark" alt="GitHub Langs">
+<img src="https://github-readme-stats-one-ruddy-99.vercel.app/api/top-langs/?username=jonnytutorials&exclude_repo=jonnytutorials&show_icons=true&theme=dark" alt="GitHub Langs">
 </a>
 <h2>Mein Discord - für Fragen, etc.</h2>
 <a target="_blank" href="https://discord.com/invite/s9tD46Fwh8">
