@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hey, ich bin Jonny Tutorials</h1>
-<h4>ein leidenschaftlicher Python Developer.</h4>
+<h4>ein leidenschaftlicher Python und Typescript Developer.</h4>
 <h4>Sehe dir meine veröffentlichten Projekte <a href="https://github.com/jonnytutorials?tab=repositories">
 hier</a>
  an!</h4>
@@ -9,6 +9,10 @@ hier</a>
 <a href="https://github.com/jonnytutorials?tab=repositories">
 <img src="https://github-readme-stats-one-ruddy-99.vercel.app/api/top-langs/?username=jonnytutorials&exclude_repo=jonnytutorials&show_icons=true&theme=dark" alt="GitHub Languages">
 </a>
+<h2>Neuste Projekte</h2>
+<div class="github-card" data-user="EasyTecRepository" data-repo="photobox"></div>
+<script src="https://cdn.jsdelivr.net/gh/lepture/github-cards@latest/jsdelivr/widget.js"></script>
+
 <h2>Mein Discord - für Fragen, etc.</h2>
 <a target="_blank" href="https://discord.com/invite/s9tD46Fwh8">
 <img src="https://camo.githubusercontent.com/323fb0ba057ee8c0b4fdd6e89e35967cb30cfcfd/68747470733a2f2f7669676e657474652e77696b69612e6e6f636f6f6b69652e6e65742f7468652d6d696e6572732d686176656e2d70726f6a6563742f696d616765732f642f64642f446973636f72642e706e672f7265766973696f6e2f6c61746573743f63623d3230313730333038303333353436" height="70" widh="70" alt="Discord">
