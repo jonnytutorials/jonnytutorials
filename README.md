@@ -1,6 +1,6 @@
 ## 👋 Hey, ich bin Jonny Tutorials (Johannes)</h2>
-ein leidenschaftlicher Full-Stack Developer.<br>
-Aktuell beschäftige ich mich mit der Entwicklung von Webapplikationen, mithilfe von Python und Typescript.
+ein leidenschaftlicher frontend/backend Developer.<br>
+In meiner Freizeit beschäftige ich mich mit der Entwicklung von Webapplikationen, mithilfe von Python und Typescript.
 
 ## Erfahrung
 ### Programmier- & Interpretersprachen
