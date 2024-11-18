@@ -43,4 +43,4 @@ In meiner Freizeit beschäftige ich mich mit der Entwicklung von Webapplikatione
 ![GitHub Statistik](https://github-readme-stats-one-ruddy-99.vercel.app/api?username=jonnytutorials&show_icons=true&hide=issues,prs&theme=dark)
 [![GitHub Languages](https://github-readme-stats-one-ruddy-99.vercel.app/api/top-langs/?username=jonnytutorials&exclude_repo=jonnytutorials&show_icons=true&theme=dark)](https://github.com/jonnytutorials?tab=repositories)
 
-[Discord](https://discord.com/invite/s9tD46Fwh8) - [Kontakt (Mail)](mailto:johannes@jonnytutorials.de)
+[Discord](https://discord.com/invite/s9tD46Fwh8) - [Kontakt (Mail)](mailto:jonny@jonnytutorials.de)
